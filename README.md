@@ -52,8 +52,8 @@ A Python-based expert system for accurate weather forecasting, using AI and Mach
 
 ## 📫 Get in Touch
 
-- LinkedIn: [linkedin.com/in/samkiyya](https://www.linkedin.com/in/samkiyya)
-- Personal Website: [samuelaberra.onrender.com](https://samuelaberra.onrender.com)
+- LinkedIn: [linkedin.com/in/salhe](https://www.linkedin.com/in/salhe-seid-9a231b284)
+- Personal Website: ([Salhe Seid](https://salhe-seid-portfolio.vercel.app/))
 - Email: [salheseid92@gmail.com](mailto:salheseid92@gmail.com)
 
 ## 🤝 Contributions & Open Source
