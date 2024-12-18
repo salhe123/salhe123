@@ -21,8 +21,8 @@ I'm a passionate Full Stack Developer with a strong background in Information Sy
 
 - **Languages**: JavaScript, Bash Scripting, Python, C, C#, C++
 - **Frameworks**: React,Nextjs ,Golang, Node.js, Graphql
-- **Database**: Mysql,Postgress,Nosql,Hasura Postgress
-- **Tools**: Git, VS Code, Inkscape
+- **Database**: Mysql,Postgress,Nosql,MongoDB
+- **Tools**: Git, VS Code, Inkscape,Docker,Hasura
 - **Platforms**: Arch Linux, AWS, Firebase
 
 ## 🚀 Featured Projects
@@ -38,18 +38,24 @@ A Python-based expert system for accurate weather forecasting, using AI and Mach
 
 ## 📊 GitHub Stats
 
-<!--![Salhes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salhe123&show_icons=true&theme=radical)-->
-![Salhes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salhe123&show_icons=true&theme=radical)
+![Salhe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salhe123&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salhe123&layout=compact&theme=radical)
-<!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Salhe123&theme=radical)-->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salhe123&theme=radical)
+
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/samkiyya/repo/pull/1) in [samkiyya/repo](https://github.com/samkiyya/repo)
 2. 💪 Opened PR [#2](https://github.com/samkiyya/repo/pull/2) in [samkiyya/repo](https://github.com/samkiyya/repo)
 <!--END_SECTION:activity-->
-[![Salhes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samkiyya&theme=github-compact)](https://github.com/samkiyya/github-readme-activity-graph)
+[![Salhes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Salhe123&theme=github-compact)](https://github.com/Salhe123/github-readme-activity-graph)
 
+## 🌱 Currently Learning
+
+- Advanced GraphQL with Apollo Client
+- Implementing AI and IoT in projects
+- Real-time applications with WebSockets
+
+---
 ## 📫 Get in Touch
 
 - LinkedIn: [linkedin.com/in/salhe](https://www.linkedin.com/in/salhe-seid-9a231b284)
@@ -62,18 +68,11 @@ I'm always open to collaboration on interesting projects. Feel free to check out
 
 ## 🌟 Achievements
 
-
-
-## 📝 Blogs & Articles
-
-- [My Journey with Arch Linux](https://blog.samuelaberra.dev/arch-linux)
-- [Building Scalable Applications with React](https://blog.samuelaberra.dev/react-scalable-apps)
-
 ## 🎯 Hobbies & Interests
 
 - **Hobbies**: Traveling,Football , reading about new technologies, and exploring open-source projects.
 
-![Profile Views](https://komarev.com/ghpvc/?username=samkiyya)
+![Profile Views](https://komarev.com/ghpvc/?username=Salhe123)
 
 ## 🔗 Let's Connect
 
