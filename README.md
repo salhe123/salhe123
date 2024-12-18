@@ -38,12 +38,12 @@ A Python-based expert system for accurate weather forecasting, using AI and Mach
 
 ## 📊 GitHub Stats
 
-<!--![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samkiyya&show_icons=true&theme=radical)-->
-![Salhes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samkiyya&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samkiyya&layout=compact&theme=radical)
-<!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=samkiyya&theme=radical)-->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samkiyya&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samkiyya&repo=alx-system_engineering-devops&theme=radical)](https://github.com/samkiyya/alx-system_engineering-devops)
+<!--![Salhes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salhe123&show_icons=true&theme=radical)-->
+![Salhes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salhe123&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salhe123&layout=compact&theme=radical)
+<!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Salhe123&theme=radical)-->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salhe123&theme=radical)
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/samkiyya/repo/pull/1) in [samkiyya/repo](https://github.com/samkiyya/repo)
 2. 💪 Opened PR [#2](https://github.com/samkiyya/repo/pull/2) in [samkiyya/repo](https://github.com/samkiyya/repo)
@@ -54,7 +54,7 @@ A Python-based expert system for accurate weather forecasting, using AI and Mach
 
 - LinkedIn: [linkedin.com/in/samkiyya](https://www.linkedin.com/in/samkiyya)
 - Personal Website: [samuelaberra.onrender.com](https://samuelaberra.onrender.com)
-- Email: [samuelabera523@gmail.com](mailto:samuelabera523@gmail.com)
+- Email: [salheseid92@gmail.com](mailto:salheseid92@gmail.com)
 
 ## 🤝 Contributions & Open Source
 
@@ -62,8 +62,7 @@ I'm always open to collaboration on interesting projects. Feel free to check out
 
 ## 🌟 Achievements
 
-- **ALX Software Engineering Program**: Completed a 12-month program with a focus on Back End Development.
-- **Top Scorer**: Consistently ranked first in class throughout my academic career.
+
 
 ## 📝 Blogs & Articles
 
