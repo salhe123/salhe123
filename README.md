@@ -21,7 +21,7 @@ I'm a passionate Full Stack Developer with a strong background in Information Sy
 
 - **Languages**: JavaScript, Bash Scripting, Python, C, C#, C++
 - **Frameworks**: React,Nextjs ,Golang, Node.js, Graphql
-- **Database**: Mysql,Postgress,Hasura Postgress
+- **Database**: Mysql,Postgress,Nosql,Hasura Postgress
 - **Tools**: Git, VS Code, Inkscape
 - **Platforms**: Arch Linux, AWS, Firebase
 
