@@ -53,8 +53,8 @@ I'm a passionate developer with a love for creating innovative solutions and con
 [![Salhe's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=salhe123&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🔗 Connect with Me
-- 📧 Email: [salheseid92@gmail.com](mailto:salheseid92@gmail.com)
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/salhe-seid-9a231b284))
+- Email: [salheseid92@gmail.com](mailto:salheseid92@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/salhe-seid-9a231b284)
 - [Salhe Seid](https://www.yourwebsite.com)
 
 
