@@ -1,79 +1,64 @@
-<!--
-**Salhe/Seya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Salhe! 👋
 
-Here are some ideas to get you started:
+### 🌟 Welcome to My GitHub Profile 🌟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there 👋, I'm Salhe Seid
-### Full Stack Developer | Tech Enthusiast | 
+I'm a passionate developer with a love for creating innovative solutions and contributing to the open-source community. Here's a bit about me:
 
-I'm a passionate Full Stack Developer with a strong background in Information Systems. I love working on innovative projects and exploring new technologies to solve real-world problems. My journey in tech began with a deep interest in systems, and I've since developed a diverse skill set in web development , Probles Solving Sills, and AI.
+## 🚀 About Me
 
-## 🛠️ Skills & Technologies
+- 🔭 I’m currently working on [Your Project Name](link-to-your-project)
+- 🌱 I’m currently learning [Technology/Framework]
+- 👯 I’m looking to collaborate on [Open Source Project/Technology]
+- 🤔 I’m looking for help with [Area where you need help]
+- 💬 Ask me about [Your Expertise/Technologies]
+- 📫 How to reach me: [Your Email or LinkedIn]
+- 😄 Pronouns: [Your Pronouns]
+- ⚡ Fun fact: [An interesting fact about you]
 
-- **Languages**: JavaScript, Bash Scripting, Python, C, C#, C++
-- **Frameworks**: React,Nextjs ,Golang, Node.js, Graphql
-- **Database**: Mysql,Postgress,Nosql,MongoDB
-- **Tools**: Git, VS Code, Inkscape,Docker,Hasura
-- **Platforms**: Arch Linux, AWS, Firebase
+## 🛠️ Technologies & Tools
 
-## 🚀 Featured Projects
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
-### [Guzoye Tourism Management System](https://github.com/samkiyya/Guzoye-final_year_project)
-A comprehensive tourism management system with features like Google Map integration and a knowledge-based chatbot for user support. Built with React.js and Flask.
+## 📈 GitHub Stats
 
-### [Banking Mobile App](https://github.com/samkiyya/Flutter-Banking-Mobile-App)
-A mobile app developed during my internship at the Commercial Bank of Ethiopia, offering secure banking services. Built with Flutter and Firebase.
+![Salhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=salhe123&show_icons=true&theme=radical)
 
-### [Weather Forecasting Expert System](https://github.com/samkiyya/Weather-forecasting-Expert-system-)
-A Python-based expert system for accurate weather forecasting, using AI and Machine Learning models.
+## 🔥 Streak Stats
 
-## 📊 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salhe123&theme=radical)
 
-![Salhe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salhe123&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salhe123&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salhe123&theme=radical)
+## 📊 Top Languages
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salhe123&layout=compact&theme=radical)
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/samkiyya/repo/pull/1) in [samkiyya/repo](https://github.com/samkiyya/repo)
-2. 💪 Opened PR [#2](https://github.com/samkiyya/repo/pull/2) in [samkiyya/repo](https://github.com/samkiyya/repo)
-<!--END_SECTION:activity-->
-[![Salhes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Salhe123&theme=github-compact)](https://github.com/Salhe123/github-readme-activity-graph)
+## 📈 Contribution Graph
 
-## 🌱 Currently Learning
+[![Salhe's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=salhe123&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- Advanced GraphQL with Apollo Client
-- Implementing AI and IoT in projects
-- Real-time applications with WebSockets
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-profile)
+- [Personal Website/Blog](https://www.yourwebsite.com)
+
+## 📂 Projects
+
+### [Project 1](link-to-project)
+Description of your project and what technologies were used.
+
+### [Project 2](link-to-project)
+Description of your project and what technologies were used.
+
+### [Project 3](link-to-project)
+Description of your project and what technologies were used.
 
 ---
-## 📫 Get in Touch
 
-- LinkedIn: [linkedin.com/in/salhe](https://www.linkedin.com/in/salhe-seid-9a231b284)
-- Personal Website: ([Salhe Seid](https://salhe-seid-portfolio.vercel.app/))
-- Email: [salheseid92@gmail.com](mailto:salheseid92@gmail.com)
-
-## 🤝 Contributions & Open Source
-
-I'm always open to collaboration on interesting projects. Feel free to check out my repositories and contribute to any project that excites you!
-
-## 🌟 Achievements
-
-## 🎯 Hobbies & Interests
-
-- **Hobbies**: Traveling,Football , reading about new technologies, and exploring open-source projects.
-
-![Profile Views](https://komarev.com/ghpvc/?username=Salhe123)
-
-## 🔗 Let's Connect
-
-I'm always excited to meet new people and collaborate on interesting projects. Feel free to reach out!
+_**"Strive not to be a success, but rather to be of value." - Albert Einstein**_
