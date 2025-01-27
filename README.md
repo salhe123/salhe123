@@ -4,16 +4,16 @@
 
 I'm a passionate developer with a love for creating innovative solutions and contributing to the open-source community. Here's a bit about me:
 
-## 🚀 About Me ,am salhe
+## 🚀 About Me
 
 - 🔭 I’m currently working on [Abyssinia Software Solution](link-to-your-project)
-- 🌱 I’m currently learning [React/Nextjs,Express and also FastAPI]
-- 👯 I’m looking to Freelance
+- 🌱 I’m currently learning [React/Next.js, Express, and FastAPI and React Native]
+- 👯 I’m looking to freelance
 - 🤔 I’m looking for help with [Backend]
 - 💬 Ask me about [Your Expertise/Technologies]
-- 📫 How to reach me: [salheseid92@gmail.com]
+- 📫 How to reach me: [salheseid92@gmail.com](mailto:salheseid92@gmail.com)
 - 😄 Pronouns: [Seya]
-- ⚡ Fun fact: [Loving Football]
+- ⚡ Fun fact: [I love football]
 
 ## 🛠️ Technologies & Tools
 
@@ -52,12 +52,19 @@ I'm a passionate developer with a love for creating innovative solutions and con
 
 [![Salhe's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=salhe123&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=salhe123&theme=radical)
+
+## 📆 Daily Dev Cards
+
+<a href="https://app.daily.dev/salhe123"><img src="https://api.daily.dev/devcards/0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8g9h.svg" width="400" alt="Salhe's Dev Card"/></a>
+
 ## 🔗 Connect with Me
+
 - Email: [salheseid92@gmail.com](mailto:salheseid92@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/salhe-seid-9a231b284)
 - [Salhe Seid](https://www.yourwebsite.com)
-
-
 
 ---
 
